@@ -177,7 +177,7 @@ header .banner .banner-content button.customized-btn{
 
 /*Hot Deals css*/
 .hot-deals{
-    padding: 40px 0;
+    padding: 60px 0;
     background-color: #fce9dc;
 }
 
@@ -185,7 +185,7 @@ header .banner .banner-content button.customized-btn{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 60px;
+    gap: 80px;
     padding: 0 80px;
 }
 
