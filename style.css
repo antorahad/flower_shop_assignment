@@ -176,6 +176,57 @@ header .banner .banner-content button.customized-btn{
 
 
 /*Hot Deals css*/
+.hot-deals{
+    padding: 60px 0 0;
+    background-color: #FDE2F3;
+}
+
+.hot-deals .deal-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    padding: 0 80px;
+}
+
+.hot-deals .deal-container .deal-content .deal-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom: 20px;
+}
+
+.hot-deals .deal-container .deal-content .deal-title .color{
+    color: #E55473;
+}
+
+.hot-deals .deal-container .deal-content .deal-text{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 500px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.hot-deals .deal-container .deal-content .btn-section{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.hot-deals .deal-container .deal-content .btn-section button.customized-btn{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 14px 29px;
+    background-color: #E55473;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
 
 
 
