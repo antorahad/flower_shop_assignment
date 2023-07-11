@@ -177,8 +177,8 @@ header .banner .banner-content button.customized-btn{
 
 /*Hot Deals css*/
 .hot-deals{
-    padding: 60px 0 0;
-    background-color: #FDE2F3;
+    padding: 40px 0;
+    background-color: #fce9dc;
 }
 
 .hot-deals .deal-container{
@@ -225,6 +225,42 @@ header .banner .banner-content button.customized-btn{
     cursor: pointer;
 }
 
+/*Instagram css*/
+.instagram{
+    padding: 120px 60px 0;
+}
+
+.instagram .section-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom: 10px;
+}
+
+.instagram .section-text{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 560px;
+    line-height: 30px;
+    margin: 0 auto;
+}
+
+.instagram .instagram-container{
+    padding: 30px 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.instagram .instagram-container .instagram-item img{
+    width: 250px;
+    height: 300px;
+    object-fit: contain;
+}
 
 
 
